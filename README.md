@@ -14,8 +14,7 @@ Also, the "cache" feature is already included to the script, so, See the "functi
 In the future, more option and class's will be added to the project.
 
 
-If you like this, give it a star rating.
-
+* If you like this, give it a star rating.
 
 <b>Required:</b>
 <ul>
@@ -23,6 +22,7 @@ If you like this, give it a star rating.
   <li>Mysql</li>
 </ul>
 
+<hr/>
 
 <b>Credits to:</b>
 <ul>
@@ -31,3 +31,11 @@ If you like this, give it a star rating.
   <li>Bootstrap</li>
   <li>phpFastCache</li>
 </ul>
+
+<hr/>
+
+<b>Changes:</b>
+<ul>
+  <li>First Release</li>
+</ul>
+
