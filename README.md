@@ -7,7 +7,7 @@ Browse the files and folders in the script to learn how to use functions and cla
 
 The admin panel feature and the theme's default theme are built-in, which makes it quicker for you.
 
-Provide your script with a admin panel and several options to your customers.
+Provide your script with a admin panel and several options eg: "Auto Installer" to your customers.
 
 Also, the "cache" feature is already included to the script, so, See the "functions.php" file in the theme folder to better understand for how to use this class.
 
@@ -15,3 +15,15 @@ In the future, more option and class's will be added to the project.
 
 
 If you like this, give it a star rating.
+
+
+<b>Required:</b>
+PHP 5.6 Higher
+Mysql
+
+
+<b>Credits to:</b>
+PHP
+jQuery
+Bootstrap
+phpFastCache
