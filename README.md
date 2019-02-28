@@ -1,6 +1,4 @@
 # FastScript
-fastscript
-
 Fast Script is Starter Project - This is Build With Very Easy PHP Coding.
 
 This makes it possible to create your own project and provide it to your customers at the fastest time.
