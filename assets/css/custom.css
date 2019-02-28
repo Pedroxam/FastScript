@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	font-family:Open Sans;
+}
+
+.change-content {
+	display:none;
+}
+
+.hidden, #removeLogo {
+	display:none;
+}
+
+.pointer {
+	cursor:pointer;
+}
+
+.active.nav-item-hold {
+	background:#905dc3;
+	color:#FFF !important;
+}
+
+.und {
+	text-decoration:underline !important;
+}
+
+.del_button {
+    border: 0;
+	cursor:pointer;
+    background: transparent;
+    display: inline-block;
+}
+
+#trailer_switch {
+	display:none;
+}
