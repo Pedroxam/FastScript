@@ -1,5 +1,5 @@
 # FastScript
-Fast Script is Starter Project - This is Build With Very Easy PHP Coding.
+Fast Script is Starter Project - <b>This is Build With <p style="color:red;">Very Easy PHP Coding</p></b>.
 
 This makes it possible to create your own project and provide it to your customers at the fastest time.
 
