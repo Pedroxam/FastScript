@@ -14,3 +14,6 @@ Provide your script with a admin panel and several options to your customers.
 Also, the "cache" feature is already included to the script, so, See the "function.php" file in the theme folder to better understand for how to use this class.
 
 In the future, more option and class's will be added to the project.
+
+
+If you like this, give it a star rating.
