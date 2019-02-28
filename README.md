@@ -1,0 +1,2 @@
+# FastScript
+fastscript
