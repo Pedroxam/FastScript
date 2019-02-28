@@ -16,6 +16,8 @@ In the future, more option and class's will be added to the project.
 
 * If you like this, give it a star rating.
 
+<hr/>
+
 <b>Required:</b>
 <ul>
   <li>PHP 5.6 Higher</li>
