@@ -19,8 +19,9 @@ In the future, more option and class's will be added to the project.
 
 <b>Required:</b>
 <ul>
-  <li>PHP 5.6 or Higher version</li>
+  <li>PHP 5.6 or higher version</li>
   <li>Mysql</li>
+  <li>Web Server Apachi or Ngix</li>
 </ul>
 
 <hr/>
