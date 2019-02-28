@@ -1,2 +1,16 @@
 # FastScript
 fastscript
+
+Fast Script is Starter Project - This is Build With Very Easy PHP Coding.
+
+This makes it possible to create your own project and provide it to your customers at the fastest time.
+
+Browse the files and folders in the script to learn how to use functions and classes.
+
+The admin panel feature and the theme's default theme are built-in, which makes it quicker for you
+
+Provide your script with a admin panel and several options to your customers.
+
+Also, the "cache" feature is already included to the script, so, See the "function.php" file in the theme folder to better understand for how to use this class.
+
+In the future, more option and class's will be added to the project.
