@@ -18,12 +18,16 @@ If you like this, give it a star rating.
 
 
 <b>Required:</b>
-PHP 5.6 Higher
-Mysql
+<ul>
+  <li>PHP 5.6 Higher</li>
+  <li>Mysql</li>
+</ul>
 
 
 <b>Credits to:</b>
-PHP
-jQuery
-Bootstrap
-phpFastCache
+<ul>
+  <li>PHP</li>
+  <li>jQuery</li>
+  <li>Bootstrap</li>
+  <li>phpFastCache</li>
+</ul>
