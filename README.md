@@ -7,7 +7,7 @@ This makes it possible to create your own project and provide it to your custome
 
 Browse the files and folders in the script to learn how to use functions and classes.
 
-The admin panel feature and the theme's default theme are built-in, which makes it quicker for you
+The admin panel feature and the theme's default theme are built-in, which makes it quicker for you.
 
 Provide your script with a admin panel and several options to your customers.
 
