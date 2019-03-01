@@ -17,6 +17,10 @@ In the future, more option and class's will be added to the project.
 
 <hr/>
 
+<img src="https://raw.githubusercontent.com/Pedroxam/FastScript/master/3.png">
+
+<hr/>
+
 <b>Required:</b>
 <ul>
   <li>PHP 5.6 or higher version</li>
