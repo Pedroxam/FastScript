@@ -46,6 +46,6 @@ In the future, more option and class's will be added to the project.
 
 <b>Changes:</b>
 <ul>
-  <li>First Release</li>
+  <li>First and end Release - just for beginners</li>
 </ul>
 
