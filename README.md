@@ -1,3 +1,5 @@
+<b>license: MIT<b>
+
 # FastScript
 <p>Fast Script is Starter Project - This is Build With Very Easy PHP Coding.</p>
 
